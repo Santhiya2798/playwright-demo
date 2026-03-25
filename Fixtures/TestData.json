@@ -1,0 +1,10 @@
+{
+  "createPost": {
+    "title": "Ajith Test Post",
+    "body": "Playwright API + UI",
+    "userId": 1
+  }
+}
+
+
+
