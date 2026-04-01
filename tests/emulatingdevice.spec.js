@@ -5,5 +5,5 @@ test.use({
 });
 
 test('mobile view test', async ({ page }) => {
-  await page.goto('https://example.com');
+  await page.goto('https://example');
 });
